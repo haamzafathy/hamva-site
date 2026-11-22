@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Primary Palladium Frost. Keep this file name stable for product use. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 104" role="img" aria-labelledby="title desc">
+  <title id="title">HAMVA Palladium Frost mark</title>
+  <desc id="desc">Two opposing Palladium Frost pyramids with four material faces and no drawn shared-base line.</desc>
+  <g stroke-linejoin="miter">
+    <path d="M100 4 4 52 100 52Z" fill="#434850"/><path d="M100 52 4 52 100 100Z" fill="#666C77"/>
+    <path d="M100 4 196 52 100 52Z" fill="#D3D8E0"/><path d="M100 52 196 52 100 100Z" fill="#9DA4B0"/>
+  </g>
+</svg>
